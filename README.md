@@ -1,2 +1,2 @@
 # DevProjects
-Trying out MVC, WebAPI stuff
+Trying out .Net and Python stuff
