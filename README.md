@@ -1,2 +1,2 @@
 # DevProjects
-Trying out .Net and Python stuff
+Developing mini ML projects using Python
